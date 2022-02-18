@@ -3,6 +3,4 @@ Please use the Issues Section to add any bugs for any of the NRG GX's or any Sys
 
 Plase Log Issues Here
 
-https://github.com/ZARichardWright/SystemCode/issues
-
 Thanks
